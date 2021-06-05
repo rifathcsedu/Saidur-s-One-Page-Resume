@@ -120,6 +120,14 @@ require("lua/parser.lua")
       \textbf{Technologies}{: \directlua{printList("_data/personal.json", "technologies", "technology")}}
       }
   \resumeSubHeadingListEnd
+
+% Print Research
+%-------------------------------------------
+\section{Research Area}
+  \resumeSubHeadingListStart
+	\directlua{printEduItems("_data/research.json")}
+  \resumeSubHeadingListEnd
+  
 % Print Publications
 %-------------------------------------------
 \section{\href{https://github.com/pforpallav}{Publications}}
