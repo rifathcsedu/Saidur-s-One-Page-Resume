@@ -1,18 +1,18 @@
 [
     {
-        "title": "Course Allotment Simulation using SAT Solver",
-        "description": "As part of Bachelors project, worked on solving the real world problem of finding a best course allocation under various constraints as a SAT (Satisfiability) problem and infer effects of different policies on course allotment and choices. Studied relative efficiency of various heuristics modeled on different solvers like MiniSAT and Glucose."
+        "title": "MicroLambda – Packetized Computation for 5G Mobile Edge Computing",
+        "description": "Published in 3rd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 20)"
     },
     {
-        "title": "IIT Bombay Hospital Digitization",
-        "description": "Created a complete web application in Java that could handle operations on relational MySQL databases to handle various processes of the university hospital."
+        "title": "MR-DNS: Multi-Resolution Domain Name System",
+        "description": "Published in International Conference on Internet and Distributed Computing Systems, 2019"
     },
     {
-        "title": "Simple 2D Physics Engine",
-        "description": "Wrote a physics engine for simple round bodies providing a back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time."
+        "title": "Internet Data Budget Allocation Policies for Diverse Smartphone Applications",
+        "description": "Published in EURASIP Journal on Wireless Communications and Networking, 2016 (Impact: 2.407)"
     },
     {
-        "title": "Social Sea",
-        "description": "Create a lightweight social search engine that shows the results ranked (using page-ranking) according to one's peer-group search history and rating."
+        "title": "Optimal allocation of 3G budget for smartphones running heterogeneous applications",
+        "description": "Published in International Conference on Networking Systems and Security, Dhaka, 2016"
     }
 ]
