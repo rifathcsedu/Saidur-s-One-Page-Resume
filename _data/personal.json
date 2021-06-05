@@ -1,37 +1,38 @@
 [
     {
-        "name": "Kumar Pallav",
-        "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
+        "name": "Saidur Rahman",
+        "website": "http://saidurrahman.info",
+        "email": "saidurrahman@montana.edu",
         "email2": "pforpallav@gmail.com",
-        "phone": "+1-206-910-0006",
-        "linkedin":"",
+        "phone": "+1-406-580-9126",
+        "linkedin":"https://www.linkedin.com/in/saidur-rahman-961bb9b2/",
         "languages": [
             {
-                "language": "C++"
+                "language": "Python"
             },
             {
-                "language": "CSharp"
-            },
-            {
-                "language": "JavaScript"
+                "language": "C/C++"
             },
             {
                 "language": "Java"
             },
             {
-                "language": "C"
+                "language": "NodeJS"
             }
         ],
         "technologies": [
             {
-                "technology": "NodeJs"
+                "technology": "Linux"
             },
             {
-                "technology": "UWP"
+                "technology": "Serverless"
             },
             {
-                "technology": "Win32"
+                "technology": "Containerization"
+            }
+            ,
+            {
+                "technology": "Amazon AWS"
             }
         ]
     }
