@@ -20,36 +20,36 @@
                 "language": "Bash"
             },
         ],
-        "database": [
+        "databases": [
             {
-                "language": "Redis"
+                "database": "Redis"
             },
             {
-                "language": "Postgres"
+                "database": "Postgres"
             },
             {
-                "language": "MongoDB"
+                "database": "MongoDB"
             },
             {
-                "language": "Realm"
+                "database": "Realm"
             },
             {
-                "language": "RethinkDB"
+                "database": "RethinkDB"
             },
             {
-                "language": "AWS SQS"
+                "database": "AWS SQS"
             },
             {
-                "language": "AWS S3"
+                "database": "AWS S3"
             },
             {
-                "language": "AWS DynamoDB"
+                "database": "AWS DynamoDB"
             },
             {
-                "language": "Google Pub-Sub"
+                "database": "Google Pub-Sub"
             },
             {
-                "language": "Firebase"
+                "database": "Firebase"
             },
         ],
         "technologies": [
