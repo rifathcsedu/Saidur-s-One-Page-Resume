@@ -11,13 +11,13 @@
                 "description": "I work on our proposed MicroLambda Edge Setup for AMELIA team for Machine learning and Mixed Reality applications."
             },
             {
-                "title": "Database and Pub-Sub",
+                "title": "Database Pub-Sub",
                 "description": "I also work on the database setup for Lambda Invocation, efficiency physioLogical siganl data storation, publish-subscribe for computation output"
             }
         ]
     },
     {
-        "company": "Samsung R \& D",
+        "company": "Samsung R D",
         "company_location": "Dhaka, Bangladesh",
         "role": "Software Engineer",
         "team": "Gear 360",
@@ -34,23 +34,6 @@
             {
                 "title": "Realtime Ink",
                 "description": "As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime."
-            }
-        ]
-    },
-    {
-        "company": "Oracle",
-        "company_location": "Bangalore, India",
-        "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
-        "time_duration": "Nov 2014 - May 2016",
-        "details": [
-            {
-                "title": "Containerization of iOS Apps",
-                "description": "Worked on sand-boxing of enterprise applications (containerization) which enable them to be installed on employee's iOS devices without worrying about security issues. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection."
-            },
-            {
-                "title": "Sandboxed Browser App",
-                "description": "Built a demo browser application for iOS. Containerized the app using the custom script, so that it only works for certain urls."
             }
         ]
     }
