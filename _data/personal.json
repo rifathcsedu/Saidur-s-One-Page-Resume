@@ -19,6 +19,12 @@
             {
                 "language": "Bash"
             },
+            {
+                "language": "Java"
+            },
+            {
+                "language": "PHP"
+            },
         ],
         "databases": [
             {
