@@ -14,11 +14,11 @@
                 "language": "C/C++"
             },
             {
-                "language": "Java"
+                "language": "NodeJS"
             },
             {
-                "language": "NodeJS"
-            }
+                "language": "Bash"
+            },
         ],
         "technologies": [
             {

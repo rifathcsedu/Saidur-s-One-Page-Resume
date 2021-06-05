@@ -109,16 +109,21 @@ require("lua/parser.lua")
   \resumeSubHeadingListStart
     \directlua{printProjItems("_data/proj.json")}
   \resumeSubHeadingListEnd
-  
+
 % Print Skills
 %-------------------------------------------
 \section{Programming Skills}
-  \resumeSubHeadingListStart 
+  \resumeSubHeadingListStart
     \item{
       \textbf{Languages}{: \directlua{printList("_data/personal.json", "languages", "language")}}
       \hfill
       \textbf{Technologies}{: \directlua{printList("_data/personal.json", "technologies", "technology")}}
       }
   \resumeSubHeadingListEnd
-
+% Print Publications
+%-------------------------------------------
+\section{\href{https://github.com/pforpallav}{Publications}}
+  \resumeSubHeadingListStart
+    \directlua{printProjItems("_data/proj.json")}
+  \resumeSubHeadingListEnd
 \end{document}
