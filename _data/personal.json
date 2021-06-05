@@ -37,13 +37,7 @@
                 "database": "RethinkDB"
             },
             {
-                "database": "AWS SQS"
-            },
-            {
-                "database": "AWS S3"
-            },
-            {
-                "database": "AWS DynamoDB"
+                "database": "AWS (S3, SQS, DynamoDB)"
             },
             {
                 "database": "Google Pub-Sub"
