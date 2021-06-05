@@ -20,6 +20,38 @@
                 "language": "Bash"
             },
         ],
+        "database": [
+            {
+                "language": "Redis"
+            },
+            {
+                "language": "Postgres"
+            },
+            {
+                "language": "MongoDB"
+            },
+            {
+                "language": "Realm"
+            },
+            {
+                "language": "RethinkDB"
+            },
+            {
+                "language": "AWS SQS"
+            },
+            {
+                "language": "AWS S3"
+            },
+            {
+                "language": "AWS DynamoDB"
+            },
+            {
+                "language": "Google Pub-Sub"
+            },
+            {
+                "language": "Firebase"
+            },
+        ],
         "technologies": [
             {
                 "technology": "Linux"
@@ -33,6 +65,15 @@
             ,
             {
                 "technology": "Amazon AWS"
+            },
+            {
+                "technology": "Mininet"
+            },
+            {
+                "technology": "Docker"
+            },
+            {
+                "technology": "OpenFaaS"
             }
         ]
     }
