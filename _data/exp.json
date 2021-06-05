@@ -11,13 +11,13 @@
                 "description": "I work on our proposed MicroLambda Edge Setup for AMELIA team for Machine learning and Mixed Reality applications."
             },
             {
-                "title": "Database & Pub-Sub",
+                "title": "Database and Pub-Sub",
                 "description": "I also work on the database setup for Lambda Invocation, efficiency physioLogical siganl data storation, publish-subscribe for computation output"
             }
         ]
     },
     {
-        "company": "Samsung R & D",
+        "company": "Samsung R \& D",
         "company_location": "Dhaka, Bangladesh",
         "role": "Software Engineer",
         "team": "Gear 360",
