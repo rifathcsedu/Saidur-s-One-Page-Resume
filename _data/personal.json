@@ -54,26 +54,26 @@
         ],
         "technologies": [
             {
-                "technology": "Linux"
+                "technology": "Cross-Platform"
             },
             {
-                "technology": "Serverless"
+                "technology": "Micro-Service"
             },
             {
-                "technology": "Containerization"
+                "technology": "Multi-threading and Multi-processing"
             }
             ,
             {
                 "technology": "Amazon AWS"
             },
             {
-                "technology": "Mininet"
+                "technology": "Mininet (SDN)"
+            },
+            {
+                "technology": "AR/MR Infrustructure"
             },
             {
                 "technology": "Docker"
-            },
-            {
-                "technology": "OpenFaaS"
             }
         ]
     }
